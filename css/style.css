@@ -1,0 +1,9 @@
+.banner {
+  height: 600px;
+  background-image: url('../images/banner.jpg');
+  background-blend-mode: multiply;
+  background-color: rgba(152, 115, 115, 0.941);
+}
+h1 {
+  text-decoration: #ddd underline 4px ;
+}
